@@ -24,7 +24,7 @@ export default function Hero() {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.2 }}
             >
-              Hi, I'm{" "}
+              Hi, I&apos;m{" "}
               <span className="text-gradient">Minh Nguyen</span>
             </motion.h1>
 

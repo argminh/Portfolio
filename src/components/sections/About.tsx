@@ -17,7 +17,7 @@ export default function About() {
           <h3 className="text-2xl font-bold mb-4">My Journey</h3>
           <p className="text-gray-600 dark:text-gray-400 mb-4">
             With a Bachelor of Mathematics (Statistics major, GPA 6.6/7) and currently pursuing a Master of Data Science
-            at University of Queensland, I've built a strong foundation in statistical modelling, machine learning, and computational mathematics.
+            at University of Queensland, I&apos;ve built a strong foundation in statistical modelling, machine learning, and computational mathematics.
           </p>
           <p className="text-gray-600 dark:text-gray-400">
             Currently a Data Scientist at Sedgwick, I specialise in geospatial analytics and location intelligence,
