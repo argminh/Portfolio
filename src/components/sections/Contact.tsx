@@ -26,7 +26,7 @@ export default function Contact() {
       icon: SiGithub,
       label: "GitHub",
       value: "View my code",
-      href: "https://github.com/Iced-Coffee-Ctrl",
+      href: "https://github.com/argminh",
       color: "text-gray-800 dark:text-gray-200",
     },
   ];
