@@ -34,7 +34,7 @@ export default function Hero() {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.4 }}
             >
-              Data Scientist
+              Specialist Data Scientist
             </motion.p>
 
             <motion.p
@@ -44,7 +44,7 @@ export default function Hero() {
               transition={{ delay: 0.6 }}
             >
               Passionate about applying machine learning, AI, and statistical methods to solve complex problems.
-              Currently developing geospatial analytics and predictive models at Sedgwick.
+              Currently working as a Specialist Data Scientist at BHP, supporting asset performance analytics in mining operations.
             </motion.p>
 
             <motion.div

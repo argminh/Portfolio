@@ -20,9 +20,9 @@ export default function About() {
             at University of Queensland, I&apos;ve built a strong foundation in statistical modelling, machine learning, and computational mathematics.
           </p>
           <p className="text-gray-600 dark:text-gray-400">
-            Currently a Data Scientist at Sedgwick, I specialise in geospatial analytics and location intelligence,
-            working with spatial data analysis, geospatial feature engineering, and proximity-based modelling. My work
-            combines ensemble methods with geospatial techniques to extract meaningful insights from location-based data.
+            Currently a Specialist Data Scientist at BHP, I support the Value Engineering team in assessing asset performance
+            across mining operations. My work spans hypothesis testing, simulation validation, and data-driven identification
+            of production uplift opportunities — combining rigorous statistical methods with agile delivery practices.
           </p>
         </div>
 
